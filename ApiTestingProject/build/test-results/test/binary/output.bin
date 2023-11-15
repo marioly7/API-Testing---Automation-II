@@ -1,0 +1,200 @@
+Request method:	POST
+/Request URI:	http://todo.ly/api/projects.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+ {"Content":"Exp MVV","Icon":5}
+>>>>>>>>> Response <<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=kc1idrtzyl5qwowzm1d0bumn; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Sat, 21 Oct 2023 13:26:15 GMT
+Content-Length: 397
+
+{
+    "Id": 4156205,
+    "Content": "Exp MVV",
+    "ItemsCount": 0,
+    "Icon": 5,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 285,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1697894776950)/",
+0    "LastUpdatedDate": "/Date(1697894776950)/",
+    "Deleted": false,
+!    "SyncClientCreationId": null
+}
+Request method:	GET
+7Request URI:	http://todo.ly/api/projects/4156205.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+ {"Content":"Exp MVV","Icon":5}
+>>>>>>>>> Response <<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=55jhoaqjx5whfxubhea1ef3g; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Sat, 21 Oct 2023 13:26:18 GMT
+Content-Length: 397
+
+{
+    "Id": 4156205,
+    "Content": "Exp MVV",
+    "ItemsCount": 0,
+    "Icon": 5,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 285,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1697894778229)/",
+0    "LastUpdatedDate": "/Date(1697894776950)/",
+    "Deleted": false,
+!    "SyncClientCreationId": null
+}
+Request method:	PUT
+7Request URI:	http://todo.ly/api/projects/4156205.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+({"Content":"Exp MVV Updated","Icon":5}
+>>>>>>>>> Response <<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=v5kyxnv1n5xexeorkhnuof5y; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Sat, 21 Oct 2023 13:26:18 GMT
+Content-Length: 405
+
+{
+    "Id": 4156205,
+"    "Content": "Exp MVV Updated",
+    "ItemsCount": 0,
+    "Icon": 5,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 285,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1697894778666)/",
+0    "LastUpdatedDate": "/Date(1697894778650)/",
+    "Deleted": false,
+!    "SyncClientCreationId": null
+}
+Request method:	DELETE
+7Request URI:	http://todo.ly/api/projects/4156205.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic dWNiMjAyM0B1Y2IyMDIzLmNvbToxMjM0NQ==
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+({"Content":"Exp MVV Updated","Icon":5}
+>>>>>>>>> Response <<<<<<<<<
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=5hsmnk1yb34b4mfrnbtt2s03; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Sat, 21 Oct 2023 13:26:18 GMT
+Content-Length: 404
+
+{
+    "Id": 4156205,
+"    "Content": "Exp MVV Updated",
+    "ItemsCount": 0,
+    "Icon": 5,
+    "ItemType": 2,
+    "ParentId": null,
+    "Collapsed": false,
+    "ItemOrder": 285,
+    "Children": [
+	        
+    ],
+    "IsProjectShared": false,
+#    "ProjectShareOwnerName": null,
+$    "ProjectShareOwnerEmail": null,
+    "IsShareApproved": false,
+    "IsOwnProject": true,
+3    "LastSyncedDateTime": "/Date(1697894779056)/",
+0    "LastUpdatedDate": "/Date(1697894779040)/",
+    "Deleted": true,
+!    "SyncClientCreationId": null
+}
